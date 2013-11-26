@@ -1,0 +1,10 @@
+* README
+clojure-scratch
+* TODO [#A] SSTP Library
+- [ ] NOTIFY :: NOTIFY HEADER
+- [ ] SEND :: SEND HEADER
+- [ ] EXECUTE ::EXECUTE HEADER
+- [ ] COMMUNICATE :: COMMUNICATE HEADER
+
+* Footer
+Last <2013-11-26 Tue>
